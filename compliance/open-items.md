@@ -55,10 +55,20 @@ _As of 2026-07-23. Ported from the Compliance Dashboard Input Package + reconcil
 - **Need:** Confirm VPT's activity and licensing status in AL, AR, LA. Add to register if applicable.
 - **Owner:** Dan / Alex / Finance.
 
-### 🟠 9. Insurance program renewal dates
-- Full program inventoried from Shelly's Insurance folder (E&O, Cyber, Crime/Fidelity ESB, D&O, EPLI, WC, GL, Umbrella, Business Owner). See `registers/insurance-policies.csv`.
-- **Need:** Exact expiration/renewal dates from each policy PDF so they land on the master calendar with real dates (currently flagged CONFIRM).
-- **Owner:** Finance. (Can be done as a batch document-extraction pass.)
+### 🟢 9. Insurance program renewal dates — EXTRACTED
+- Dates pulled from policy PDFs and loaded onto the master calendar. Confirmed:
+  - **E&O** STA11296-01 (QBE Specialty) — **05/27/2026-05/27/2027**, renewed. ✓
+  - **Cyber** — renewed 2026-2027 (cert in vault). ✓
+  - **ESB / Fidelity (VPT)** ESB 10037-15 — **12/01/2025-12/01/2026**. ✓
+  - **CA Escrow Bond + Excess (VPT of CA)** ESB11858-2501 + SUA1039-2501 — **08/08/2025-08/08/2026** ($4M). Renews ~8/8/2026. ✓
+  - **EPLI** 76KDFLL3RCS (Scottsdale) — **03/05/2026-03/05/2027**. ✓
+  - **Workers Comp** 76WBGAV3BEM (Hartford) — 12/15 annual; last confirmed 24-25 term.
+- Remaining to extract: FL Business Owner, FL Umbrella, CA Hartford BOP (57 SBA BE5FV0).
+
+### 🔴 13. NEW — D&O and General Liability renewals possibly LAPSED
+- **D&O:** Prior term (Lloyds/Stateside, Policy 6805-4241) expired **5/27/2026**. NO 2026-2027 D&O policy found in Shelly's vault (E&O and Cyber renewals ARE there). Confirm the D&O renewed — if not, VPG directors/officers are uninsured.
+- **General Liability / BOP (Hartford 22 SBA UL9970):** Prior term expired **3/1/2026**. No 2026-2027 renewal located. Confirm renewed.
+- **Owner:** Finance (with Stewart Insurance / Hartford). High priority — these are coverage gaps, not just tracking gaps.
 
 ### 🟠 10. Physical locations list — mostly resolved
 - 8 offices confirmed from `Office Addresses.xlsx` (FL HQ, CA, TX, NV, UT, AL, AR, LA). See `registers/physical-locations.csv`.

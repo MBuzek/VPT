@@ -10,11 +10,13 @@ Due Date,Item,Type,State,Frequency,Owner,Status,Source
 2026-07-27,TX Escrow Officers Bond renewal,Bond Renewal,TX,Annual,HUB/Finance,DUE NOW,surety-bonds
 2026-07-30,CA UTC Quarterly Statement Q2 (Form 203),Filing,CA,Quarterly,Finance,Upcoming,filings-register
 2026-07-31,TX Annual Trust Fund Audit (~90d post FYE),Audit,TX,Annual,Independent CPA,Verify timing,filings-register
+2026-08-08,CA Escrow Bond + Excess (VPT of CA) renewal,Insurance,CA,Annual,Finance,Upcoming - SOON (ESB11858-2501 + SUA1039-2501),insurance-policies
 2026-08-25,WA DOR Combined Excise 'No Business' return,Tax,WA,Monthly,Finance,Recurring (25th monthly),filings-register
 2026-10-17,FL Title Agents Bond renewal,Bond Renewal,FL,Annual,HUB/Finance,Upcoming,surety-bonds
 2026-10-30,CA UTC Quarterly Statement Q3 (Form 203),Filing,CA,Quarterly,Finance,Upcoming,filings-register
 2026-11-07,OH Title Bond renewal,Bond Renewal,OH,Annual,HUB/Finance,Upcoming,surety-bonds
-2026-12-15,Workers Comp (FL/Clearwater) renewal (est.),Insurance,FL,Annual,Finance,CONFIRM date,insurance-policies
+2026-12-01,Escrow Security Bond / Fidelity (VPT) renewal,Insurance,FL,Annual,Finance,Upcoming (ESB 10037),insurance-policies
+2026-12-15,Workers Comp renewal (Hartford 76WBGAV3BEM),Insurance,All,Annual,Finance,Upcoming - verify current term,insurance-policies
 2026-12-23,TN Title Bond (Alex Morgan) renewal,Bond Renewal,TN,Annual,HUB/Finance,Upcoming - individual bond,surety-bonds
 2027-01-01,NE Title Agents Bond renewal,Bond Renewal,NE,Annual,HUB/Finance,Upcoming,surety-bonds
 2027-01-01,NV Annual Agent Certification,Filing,NV,Annual,HR/Finance,Verify if NV-licensed,filings-register
@@ -45,11 +47,10 @@ Due Date,Item,Type,State,Frequency,Owner,Status,Source
 2027-06-01,PA Title Agents Bond renewal,Bond Renewal,PA,Annual,HUB/Finance,Upcoming,surety-bonds
 2027-06-26,OR Escrow Agent Bond renewal,Bond Renewal,OR,Annual,HUB/Finance,Upcoming,surety-bonds
 2027-06-30,OR Escrow Agent License Renewal,License,OR,Annual,Dan/HR,Upcoming,filings-register
-2027-07-01,TX MIN CAP Surety Bond renewal (2-yr),Bond Renewal,TX,Biennial,HUB/Finance,Upcoming,surety-bonds
-CONFIRM,E&O / Professional Liability renewal,Insurance,All,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
-CONFIRM,Cyber Liability renewal,Insurance,All,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
-CONFIRM,Crime/Fidelity Escrow Security Bond renewal,Insurance,VPT,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
-CONFIRM,D&O (VPG) renewal - Policy 6805-4241,Insurance,VPG,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
-CONFIRM,EPLI renewal - Policy 76KDFLL3RCS,Insurance,VPT,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
-CONFIRM,General Liability (multi-state) renewal (~3/1),Insurance,TX/AL/AR/LA/UT/NV,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+2027-03-05,EPLI renewal (Hartford 76KDFLL3RCS),Insurance,VPT,Annual,Finance,Current - Hartford services 90d prior,insurance-policies
+2027-05-27,E&O / Professional Liability renewal (STA11296-01),Insurance,All,Annual,Finance,Current - renewed 2026-2027,insurance-policies
+2027-05-27,Cyber Liability renewal,Insurance,All,Annual,Finance,Current - renewed 2026-2027,insurance-policies
+VERIFY,D&O renewal 2026-2027 (Policy 6805-4241),Insurance,VPG,Annual,Finance,GAP - 2026-2027 D&O not in vault; confirm renewed (prior expired 5/27/2026),insurance-policies
+VERIFY,General Liability / BOP renewal 2026-2027 (22 SBA UL9970),Insurance,TX/AL/AR/LA/UT/NV,Annual,Finance,GAP - confirm renewed (prior expired 3/1/2026),insurance-policies
 CONFIRM,UT Foreign Corporation Annual Renewal,Corporate,UT,Annual,Dan/Finance,CONFIRM anniversary month,filings-register
+CONFIRM,FL Business Owner / FL Umbrella / CA BOP renewals,Insurance,FL/CA,Annual,Finance,Dates not yet extracted,insurance-policies
