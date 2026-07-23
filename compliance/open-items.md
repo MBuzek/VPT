@@ -60,7 +60,9 @@ _As of 2026-07-23. Ported from the Compliance Dashboard Input Package + reconcil
 - VA Bureau of Insurance RESA audit for VPT (**license #126373**), submitted via Stewart (John Wolf) on 2/18/2026, is **still not accepted**. Investigator: Michelle Turner, SCC RESA Investigations.
 - Sole remaining deficiency: **amended Schedule A must include the West Virginia escrow account** (WV is listed in item 11 of the cover page but its account details were never provided).
 - **Hard deadline 7/30/2026.** Turner: if not provided to Stewart for portal submission by 7/30, **"this matter will be referred to management"** (enforcement). VPT already missed May 20, June 5, and July 10 deadlines.
-- **Status:** Brandy VanOchten (VP Finance) states she responded **7/21/2026 with the Schedule A** (attached to her 7/23 reply). The 3/10/2026 Schedule A is NOT in SharePoint/Shelly's folders — Brandy/Finance holds it. **Action: confirm Brandy's Schedule A actually reached John Wolf and was uploaded to the Bureau portal** — Turner was still saying "no response received" as of 7/23 AM, which may just predate Brandy's 7/21 send or mean it never reached Wolf.
+- **THE SUBSTANTIVE ANSWER EXISTS (from Brandy/Wolf email thread):** VPT's **West Virginia escrow transactions run through the Bank United "All States Escrow II" account, ending x1932.** John Wolf (Stewart) asked; Brandy VanOchten confirmed. So the amended Schedule A simply needs **West Virginia added as an associated state for the Bank United All States Escrow II account x1932.**
+- **Status:** The 3/10/2026 Schedule A is NOT in SharePoint/Shelly's folders — Finance holds it. Wolf has the WV answer. The remaining gap is almost certainly the **final portal upload** by Wolf, not the information.
+- **Action:** Confirm with **John Wolf (john.wolf@stewart.com)** that he will incorporate WV -> account x1932 on the amended Schedule A and **upload it to the Bureau portal by 7/30**, and get written confirmation it's submitted. cc agencyaudit@stewart.com, Natalie, Brandy.
 - **Owner:** Natalie / Brandy / Finance (Mike coordinating). Do NOT let this lapse past 7/29.
 
 ### 🟢 9. Insurance program renewal dates — EXTRACTED
