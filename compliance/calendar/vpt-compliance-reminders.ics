@@ -65,6 +65,20 @@ DESCRIPTION:VPT ID/TX bond renewals
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:vpt-tx-garc-q2-20260801@vptitle.net
+DTSTAMP:20260723T120000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[VPT] TX Guaranty Fee (GARC) Q2 2026 remittance DUE
+DESCRIPTION:Texas Title Insurance Guaranty Association fee - $2.00/policy issued in Q2 2026. Signed+notarized form + check to TX Title Ins Guaranty Assoc; email copy to Compliance Freedom (texas-apps@compliancefreedom.com). Need TX Q2 policy count. Quarterly - confirm Q1/Q3/Q4 dates.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P5D
+ACTION:DISPLAY
+DESCRIPTION:VPT TX GARC Q2 due 8/1 - needs notarization + check
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:vpt-bond-ca-escrow-20260808@vptitle.net
 DTSTAMP:20260723T120000Z
 DTSTART;VALUE=DATE:20260808
