@@ -1,0 +1,9 @@
+State,Role,Address,Licensed/Filing Footprint?,Flag
+FL,Headquarters,"18167 US Highway 19 N, Suite 180, Clearwater, FL 33764",Yes - active (FL data call, IA financials, bonds),Confirmed HQ
+CA,Operating office,"26060 Acero, Suite 110, Mission Viejo, CA 92691",Yes - active (CDI UTC statements, escrow bonds),Confirmed
+TX,Operating office,"2221 E. Lamar Blvd, Ste 225, Arlington, TX 76006-7498",Yes - active (TDI, franchise tax, bonds),Confirmed
+NV,Operating office,"7251 W. Lake Mead Blvd, Ste 300, Las Vegas, NV 89128-8380",Reference (NV bond held; verify NV title license),Confirm NV licensing status
+UT,Operating office,"75 East Fort Union Blvd, Ste C-124, Midvale, UT 84047",Yes - active (UT producer report + foreign-corp renewal),Serves as UT registered-agent street address? CONFIRM
+AL,Operating office,"One Perimeter Park South, Ste. 100 N., Birmingham, AL 35243",NOT in filings register,GAP - physical office but no AL filings/license tracked. VERIFY licensing obligation.
+AR,Operating office,"17724 Interstate 30, Suite 2, Room 3, Benton, AR 72019",NOT in filings register,GAP - physical office but no AR filings/license tracked. VERIFY licensing obligation.
+LA,Operating office,"100 E Angelle St, Ste N-3, Carencro, LA 70520",Partial (VPT of LA E&O policy exists) - not in filings register,GAP - physical office + LA entity but no LA filings/license tracked. VERIFY.

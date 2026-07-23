@@ -1,0 +1,55 @@
+Due Date,Item,Type,State,Frequency,Owner,Status,Source
+2026-03-31,OR Escrow Annual Report,Filing,OR,Annual,Finance/Ops,PAST DUE - VERIFY FILED,filings-register
+2026-04-15,ID Annual Escrow License Renewal,License,ID,Annual,Compliance Freedom,PAST DUE - VERIFY FILED,filings-register
+2026-05-15,NM Agent's Statistical Report (ASR),Filing,NM,Annual,Finance/CPA,FILED/CURRENT (OSI 6/11),filings-register
+2026-05-15,NM Annual Escrow Compliance Procedures Report (AECPR),Filing,NM,Annual,Finance/CPA,FILED 6/10 - penalty exposure open,filings-register
+2026-06-26,OR Escrow Agent Bond renewal (Liberty Mutual switch),Bond Renewal,OR,Annual,HUB/Finance,PAST DUE - VERIFY FILED,surety-bonds
+2026-06-30,OR Escrow Agent License Renewal,License,OR,Annual,Dan/HR,PAST DUE - VERIFY FILED (ORS 696.511 training cert),filings-register
+2026-07-25,IA Title Agents Bond renewal,Bond Renewal,IA,Annual,HUB/Finance,DUE NOW,surety-bonds
+2026-07-27,ID Title Agents Bond renewal,Bond Renewal,ID,Annual,HUB/Finance,DUE NOW,surety-bonds
+2026-07-27,TX Escrow Officers Bond renewal,Bond Renewal,TX,Annual,HUB/Finance,DUE NOW,surety-bonds
+2026-07-30,CA UTC Quarterly Statement Q2 (Form 203),Filing,CA,Quarterly,Finance,Upcoming,filings-register
+2026-07-31,TX Annual Trust Fund Audit (~90d post FYE),Audit,TX,Annual,Independent CPA,Verify timing,filings-register
+2026-08-25,WA DOR Combined Excise 'No Business' return,Tax,WA,Monthly,Finance,Recurring (25th monthly),filings-register
+2026-10-17,FL Title Agents Bond renewal,Bond Renewal,FL,Annual,HUB/Finance,Upcoming,surety-bonds
+2026-10-30,CA UTC Quarterly Statement Q3 (Form 203),Filing,CA,Quarterly,Finance,Upcoming,filings-register
+2026-11-07,OH Title Bond renewal,Bond Renewal,OH,Annual,HUB/Finance,Upcoming,surety-bonds
+2026-12-15,Workers Comp (FL/Clearwater) renewal (est.),Insurance,FL,Annual,Finance,CONFIRM date,insurance-policies
+2026-12-23,TN Title Bond (Alex Morgan) renewal,Bond Renewal,TN,Annual,HUB/Finance,Upcoming - individual bond,surety-bonds
+2027-01-01,NE Title Agents Bond renewal,Bond Renewal,NE,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-01-01,NV Annual Agent Certification,Filing,NV,Annual,HR/Finance,Verify if NV-licensed,filings-register
+2027-01-15,OH Annual Title Agent Review (INS3283),Audit,OH,Annual,Independent reviewer,Verify (OH bond held),filings-register
+2027-01-31,DC Title Agents Bond renewal,Bond Renewal,DC,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-03-01,CA UTC Annual Statement (203) + Sch 162 + Form 161 + Fee 206,Filing,CA,Annual,Finance,Upcoming - OASIS access,filings-register
+2027-03-15,ID Escrow Rate Filing,Rate Filing,ID,Annual,Finance,Verify,filings-register
+2027-03-15,WA Report of Affiliated Business Ownership,Disclosure,WA,Annual,Finance,Verify if WA-licensed,filings-register
+2027-03-17,TX Title Agents Bond renewal,Bond Renewal,TX,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-03-17,VA Title Agents Bond renewal,Bond Renewal,VA,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-03-30,FL IA Closing Agent Financials,Filing,FL,Annual,Finance/CPA,Upcoming,filings-register
+2027-03-31,OR Escrow Annual Report,Filing,OR,Annual,Finance/Ops,Upcoming,filings-register
+2027-03-31,MD MAHT Annual Report,Trust Report,MD,Annual,Finance,Verify (MD bond held),filings-register
+2027-04-15,ID Annual Escrow License Renewal,License,ID,Annual,Compliance Freedom,Upcoming,filings-register
+2027-04-26,TN Title Bond (Natalie Hill) renewal,Bond Renewal,TN,Annual,HUB/Finance,Upcoming - individual bond,surety-bonds
+2027-04-30,CA UTC Quarterly Statement Q1 (Form 203),Filing,CA,Quarterly,Finance,Upcoming,filings-register
+2027-04-30,AZ Annual Escrow Account Audit (DIFI ~120d post FYE),Audit,AZ,Annual,Finance/Ed Hill,Upcoming,filings-register
+2027-05-01,TX TDI Statistical Data Report,Filing,TX,Annual,Finance,Upcoming,filings-register
+2027-05-01,UT Title Insurance Producer Annual Report,Filing,UT,Annual,Finance,Upcoming,filings-register
+2027-05-09,NM Escrow Bond renewal,Bond Renewal,NM,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-05-15,TX Franchise Tax / Public Information Report,Tax,TX,Annual,Finance/Tax,Upcoming,filings-register
+2027-05-15,NM Agent's Statistical Report (ASR),Filing,NM,Annual,Finance/CPA,Upcoming - NO extensions,filings-register
+2027-05-15,NM Annual Escrow Compliance Procedures Report (AECPR),Filing,NM,Annual,Finance/CPA,Upcoming - NO extensions,filings-register
+2027-05-31,OR Financial Statements,Filing,OR,Annual,Finance/Ed Hill,Upcoming,filings-register
+2027-05-31,WA Title Agent Data Report,Filing,WA,Annual,Finance,Verify if WA-licensed,filings-register
+2027-06-01,KS Title Agents Bond renewal,Bond Renewal,KS,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-06-01,MD Title Agents Bond renewal,Bond Renewal,MD,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-06-01,PA Title Agents Bond renewal,Bond Renewal,PA,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-06-26,OR Escrow Agent Bond renewal,Bond Renewal,OR,Annual,HUB/Finance,Upcoming,surety-bonds
+2027-06-30,OR Escrow Agent License Renewal,License,OR,Annual,Dan/HR,Upcoming,filings-register
+2027-07-01,TX MIN CAP Surety Bond renewal (2-yr),Bond Renewal,TX,Biennial,HUB/Finance,Upcoming,surety-bonds
+CONFIRM,E&O / Professional Liability renewal,Insurance,All,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+CONFIRM,Cyber Liability renewal,Insurance,All,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+CONFIRM,Crime/Fidelity Escrow Security Bond renewal,Insurance,VPT,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+CONFIRM,D&O (VPG) renewal - Policy 6805-4241,Insurance,VPG,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+CONFIRM,EPLI renewal - Policy 76KDFLL3RCS,Insurance,VPT,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+CONFIRM,General Liability (multi-state) renewal (~3/1),Insurance,TX/AL/AR/LA/UT/NV,Annual,Finance,CONFIRM date from policy PDF,insurance-policies
+CONFIRM,UT Foreign Corporation Annual Renewal,Corporate,UT,Annual,Dan/Finance,CONFIRM anniversary month,filings-register
