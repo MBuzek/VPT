@@ -58,8 +58,9 @@ _As of 2026-07-23. Ported from the Compliance Dashboard Input Package + reconcil
 
 ### 🔴 15. NEW — TX Title Insurance Guaranty Fee (GARC) quarterly remittance (Q2 due 8/1/2026)
 - Texas Title Insurance Guaranty Association fee: **$2.00 per policy** issued in the quarter, remitted quarterly. **Q2 2026 due 8/1/2026.**
-- Submit **signed + notarized** GARC form + **check** to the TX Title Insurance Guaranty Association; email a copy (form, check, shipping) to Compliance Freedom (Julian/Jillian/Kenneth Nickel, texas-apps@compliancefreedom.com).
-- **Need:** VPT's **TX Q2 2026 policy count** to compute the fee; confirm the form's data is current (Compliance Freedom asked).
+- Compliance Freedom attached a **fillable draft TG-1 form** (pre-filled, NOT executed). VPT must verify data, sign, notarize, mail w/ check, and email a copy back to Compliance Freedom (Julian/Jillian/Kenneth Nickel, texas-apps@compliancefreedom.com).
+- **Signer: Natalie Hill, CEO** — the TG-1 names her as the officer/contact, so she must sign **in person before a notary** (not delegable). Route to Natalie early.
+- **Need:** VPT's **TX Q2 2026 policy count** to compute the fee; confirm the form's pre-filled data is current (Compliance Freedom asked).
 - **Process risk:** the reminder was **quarantined as spam** by VPT's email filter and had to be re-sent — **allowlist compliancefreedom.com** so future quarterly reminders don't silently disappear.
 - **Gap:** this recurring quarterly TX obligation was not previously in the register (now filings #41). Confirm the full quarterly due-date pattern (Q1/Q3/Q4).
 - **Owner:** Finance (Mike), via Compliance Freedom. Move by ~7/29 — needs notarization + a mailed check.
