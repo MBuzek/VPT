@@ -48,12 +48,20 @@ _As of 2026-07-23. Ported from the Compliance Dashboard Input Package + reconcil
 - **Need:** Confirm which states VPT is ACTIVELY licensed in so the register reflects real obligations.
 - **Owner:** Finance / Dan.
 
-### 🔴 8. NEW — AL / AR / LA physical offices with no filings tracked
+### 🔴 8. NEW — AL / AR / LA / WV presence with no filings tracked
 - `Office Addresses.xlsx` (Shelly) shows VPT offices in **Alabama** (Birmingham), **Arkansas** (Benton), and **Louisiana** (Carencro). A VPT of LA E&O policy also exists.
-- None of these states appear in the filings register or bond register.
-- **Risk:** Physical presence / operations may trigger licensing, bonding, or tax obligations we are not tracking.
-- **Need:** Confirm VPT's activity and licensing status in AL, AR, LA. Add to register if applicable.
+- The **VA RESA audit** (see #14) reveals VPT holds **escrow accounts** across AZ, CA, ID, NM, OR, PA, UT, SD, WA, WY, **WV**, DC — notably **West Virginia**, which is nowhere in our registers.
+- None of AL/AR/LA/WV appear in the filings or bond register.
+- **Risk:** Physical presence and/or escrow accounts may trigger licensing, bonding, or tax obligations we are not tracking. An escrow account in a state usually implies obligations there.
+- **Need:** Confirm VPT's activity/licensing status in AL, AR, LA, WV (and reconcile the full escrow-account footprint from the VA audit cover page). Add to register if applicable.
 - **Owner:** Dan / Alex / Finance.
+
+### 🔴 14. NEW — Virginia RESA audit INCOMPLETE (deadline 7/30/2026)
+- VA Bureau of Insurance RESA audit for VPT (**license #126373**), submitted via Stewart (John Wolf) on 2/18/2026, is **still not accepted**. Investigator: Michelle Turner, SCC RESA Investigations.
+- Sole remaining deficiency: **amended Schedule A must include the West Virginia escrow account** (WV is listed in item 11 of the cover page but its account details were never provided).
+- **Hard deadline 7/30/2026.** Turner: if not provided to Stewart for portal submission by 7/30, **"this matter will be referred to management"** (enforcement). VPT already missed May 20, June 5, and July 10 deadlines.
+- **Status:** Brandy VanOchten (VP Finance) states she responded **7/21/2026 with the Schedule A** (attached to her 7/23 reply). The 3/10/2026 Schedule A is NOT in SharePoint/Shelly's folders — Brandy/Finance holds it. **Action: confirm Brandy's Schedule A actually reached John Wolf and was uploaded to the Bureau portal** — Turner was still saying "no response received" as of 7/23 AM, which may just predate Brandy's 7/21 send or mean it never reached Wolf.
+- **Owner:** Natalie / Brandy / Finance (Mike coordinating). Do NOT let this lapse past 7/29.
 
 ### 🟢 9. Insurance program renewal dates — EXTRACTED
 - Dates pulled from policy PDFs and loaded onto the master calendar. Confirmed:
