@@ -1,0 +1,41 @@
+Current Location (Accounting/ unless noted),Approx Size,New Home,Disposition,Notes
+Bank United/Reconciliations,15 GB,01 Bank Reconciliations,ACTIVE,"Current recs spine; re-nest as Entity/Account/Year, apply naming"
+Bank Recs and Stmts - Operating,426 MB,01 Bank Reconciliations / Operating,ACTIVE,Merge into operating account under correct entity
+Monthly Wire Clearing Reconciliation -Brandy,2.5 MB,03 Wire Reconciliations,ACTIVE,De-personalize name
+Wire In Rec,4.6 GB,03 Wire Reconciliations,ACTIVE,Split by year
+Wire in Rec Bank United,2 MB,03 Wire Reconciliations,ACTIVE,Merge into 03
+Bank United 2026 Bank Statements (separate library),n/a,02 Bank Statements,ACTIVE,Consolidate stray library; re-nest by entity/account/year
+2025 BANK STATEMENTS (separate library),n/a,02 Bank Statements,ACTIVE,Consolidate stray library
+FATCO On-Site Audit - 2026-08-20,1.1 GB,04 Audits & Exams / Active,ACTIVE-FROZEN,"Do NOT move until on-site audit clears (2026-08-20)"
+FNF Audit 113431 - May-July 2026,1.4 GB,04 Audits & Exams / Active,ACTIVE-FROZEN,In-progress audit; freeze
+Audits (excl. Completed Audits),~8 GB,04 Audits & Exams,ACTIVE/REVIEW,"Keep recent audit events; strip duplicated recs (link to library instead)"
+Audits/Completed Audits,18 GB,Legacy-Archive / Finance / Completed Audits by year,ARCHIVE,"Archived not deleted; de-dup recs already in library"
+Order Revenue - VPT,2.8 GB,05 Revenue & Reporting / Order & Remittance Revenue,ACTIVE,Consolidate revenue reports here
+Remittance,4.4 GB,05 Revenue & Reporting / Order & Remittance Revenue,ACTIVE,Consolidate
+VPT Revenue Reports,542 MB,05 Revenue & Reporting / Order & Remittance Revenue,ACTIVE,Consolidate
+Cash Flows and Notary,103 MB,05 Revenue & Reporting / Cash Flow (+ split Notary to Ops),ACTIVE,Split notary out to Operations
+General Ledgers,4 MB,05 Revenue & Reporting / General Ledgers,ACTIVE,
+Invoices 2023 / 2024 / 2025,~530 MB,06 Accounting Operations / Invoices & AP,ACTIVE,Group under Invoices & AP by year
+Bill.com issues,360 KB,06 Accounting Operations / Invoices & AP,ACTIVE,
+Data Trace Invoices,8 MB,06 Accounting Operations / Invoices & AP,ACTIVE,
+W9's,540 MB,06 Accounting Operations / Invoices & AP,ACTIVE,
+Positive pay downloads / transmission folders,~5 MB,06 Accounting Operations / Bank Admin,ACTIVE,
+Escheat,450 MB,06 Accounting Operations / Escheat & Unclaimed,ACTIVE,
+Clearedge - Meridian - Escheat Folder,21 KB,06 Accounting Operations / Escheat & Unclaimed,ACTIVE,
+Wire Instructions-COMM,56 MB,06 Accounting Operations / Wire Instructions,ACTIVE,
+Fedex,29 MB,06 Accounting Operations / Vendor,ACTIVE,Shared FedEx login relates to Password Archive governance
+Reliant Title-NERIO,566 MB,Legacy-Archive / Finance,ARCHIVE,Legacy/acquired entity
+Rob,40.6 GB,Legacy-Archive / Finance / To Triage,TRIAGE,"Person dump; extract active (On Demand, MHTR, VizionX are legacy) then archive"
+Roberta,8.7 GB,Legacy-Archive / Finance / To Triage,TRIAGE,Person dump; extract active then archive
+Joni,2.5 GB,Legacy-Archive / Finance / To Triage,TRIAGE,"Contains desktop/k-drive dump of recs; extract active then archive"
+Irma,4.1 GB,Legacy-Archive / Finance / To Triage,TRIAGE,Person dump
+Jean,1.1 GB,Legacy-Archive / Finance / To Triage,TRIAGE,Person dump
+Adriana,404 MB,Legacy-Archive / Finance / To Triage,TRIAGE,Person dump
+Kristen,4.6 MB,Legacy-Archive / Finance / To Triage,TRIAGE,Person dump
+Robert Jackson,827 KB,Legacy-Archive / Robert Jackson Era,ARCHIVE,Prior-regime material
+Josh's-Rob's VP Salaries ... Natalie's.xlsx (loose at root),47 KB,RESTRICTED HR/Management,REVIEW-SENSITIVE,Salary/PII must leave department Finance site
+AdHocReport ... Carolyn Guenther life change event.xlsx (loose),23 KB,RESTRICTED HR,REVIEW-SENSITIVE,PII/HR life-event
+Copy of Employees Josh list vs Paychex ... .xlsx (loose),22 KB,RESTRICTED HR,REVIEW-SENSITIVE,Employee PII
+VPTSharepointNew2026 / HR/Employee Files/Morgan Alexander/Bank Statements,n/a,REVIEW,REVIEW-SENSITIVE,Financial statements under an HR employee file; confirm ownership
+mbuzek OneDrive / FATCO AUDIT JULY 2026; CA AUDIT - DE LA VEGA; AZ 12.31.25/1. Bank Recs,n/a,04 Audits (Active) / 01 Bank Reconciliations,ACTIVE,Move audit source out of personal OneDrive after FATCO clears
+*.lnk shortcuts; dbisam.lck; signature (0 B); Monthly RENT (empty); test,~0,System Junk (review),REVIEW-DELETE,"Recommend delete with sign-off; default archive per 'never delete' rule"
